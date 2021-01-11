@@ -1,0 +1,2 @@
+Class Context Managers Works Fine
+context manager from function works fine
