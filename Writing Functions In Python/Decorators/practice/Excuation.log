@@ -1,0 +1,11 @@
+INFO:root:function display with args ('Bakr Frag', 25) and kwargs {} called at 1610552924.333013
+INFO:root:function display with args ('Bakr Frag', 25) and kwargs {} called at 2021:52:01/13/21-17:52:18
+INFO:root:function display with args ('Bakr Frag', 25) and kwargs {} called at 2021:53:13-17:53:52
+INFO:root:function check with args (10,) kwargs {} executed at time 2021:01:13-18:01:52
+INFO:root:function check with args (10,) kwargs {} executed at time 2021:02:13-18:02:11
+INFO:root:function check with args (10,) kwargs {} executed at time 2021:02:13-18:02:45
+INFO:root:function check with args (10,) kwargs {} executed at time 2021:03:13-18:03:01
+INFO:root:function check with args (10,) kwargs {} executed at time 2021:05:13-18:05:59
+INFO:root:function check with args (500,) kwargs {} executed at time 2021:10:13-18:10:54
+INFO:root:function say_hello with args ('DEVELOPER',) and kwargs {} called at 2021:35:13-18:35:17
+INFO:root:function say_hello with args ('DEVELOPER',) and kwargs {} called at 2021:36:13-18:36:30
