@@ -1,0 +1,27 @@
+Data Enginner > take any action regarding to make data tasks as maintanable , realiable and automated 
+
+wokflow > represents steps that make the data task 
+
+tools to build workflows > lugi , ssis from microsoft , bash scription and apache airflow 
+
+apache airflow 
+
+can be access via code , terminal and web interfaces 
+
+build workflow as DAG 
+
+DAG >> data acyclic Grapths include all steps that make workflows and dependancies between them 
+
+
+to run airflow via coomand 
+
+airflow run <tag_id> <task_id> <start_date>
+
+DAG in details
+ 
+Directed: means the execuation of the workflow done from point to anthor from task to anthor and the dependancies between tasks (components) define the execuation order
+
+Acyclic: means there is no repeatation or loop it's go from task to anthor
+
+GrapthL represents the workflow components and its dependancies
+
